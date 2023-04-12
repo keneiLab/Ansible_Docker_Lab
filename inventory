@@ -1,3 +1,5 @@
 [client]
 localhost
-192.168.194.2
+
+[webservers]
+192.168.2.10
